@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Math.id</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aritmatika">AritmatikaActivity</string>
+    <string name="title_activity_bangun_datar">BangunDatarActivity</string>
+    <string name="title_activity_bangun_ruang">BangunRuangActivity</string>
+    <string name="title_activity_rumus">RumusActivity</string>
+    <string name="title_activity_bantuan">BantuanActivity</string>
+    <string name="title_activity_penjumlahan">PenjumlahanActivity</string>
+    <string name="title_activity_pengurangan">PenguranganActivity</string>
+    <string name="title_activity_kali">KaliActivity</string>
+    <string name="title_activity_bagi">BagiActivity</string>
+    <string name="title_activity_modulus">ModulusActivity</string>
+    <string name="title_activity_persegi">PersegiActivity</string>
+    <string name="title_activity_persegi_panjang">PersegiPanjangActivity</string>
+    <string name="title_activity_segitiga">SegitigaActivity</string>
+    <string name="title_activity_trapesium">TrapesiumActivity</string>
+    <string name="title_activity_lingkaran">LingkaranActivity</string>
+    <string name="title_activity_jajar_genjang">JajarGenjangActivity</string>
+    <string name="title_activity_belah_ketupat">BelahKetupatActivity</string>
+    <string name="title_activity_layang">LayangActivity</string>
+    <string name="title_activity_kubus">KubusActivity</string>
+    <string name="title_activity_balok">BalokActivity</string>
+    <string name="title_activity_kerucut">KerucutActivity</string>
+    <string name="title_activity_tabung">TabungActivity</string>
+    <string name="title_activity_limas">LimasActivity</string>
+    <string name="title_activity_prisma">PrismaActivity</string>
+    <string name="title_activity_bola">BolaActivity</string>
+    <string name="title_activity_rumus_tab">RumusTabActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
